@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+:root {
+    --first-color: linear-gradient(to bottom, #041B3A, #04244F, #154580);
+    --second-color: #f7fdff;
+    --third-color: #22d4fd;
+    --color-houver: #154580;
+    --color-rodape: #0A2647;
+    --main-source: 'Krona One', sans-serif;
+    --second-source: 'Montserrat', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    background: var(--first-color);
+    color: var(--second-color);
+}
+
+.header__menu {
+    display: flex;
+    gap: 80px;
+}
+
+.header {
+    padding: 2% 0% 0% 15%;
+}
+
+.header__menu__link {
+    font-family: var(--second-source);
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--third-color);
+    text-decoration: none;
+}
+
+.presentation__conteudo {
+    /*Estilização dos textos principais*/
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.presentation {
+    /*Foto do Borges*/
+    padding: 5% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.presentation__conteudo__titulo {
+    /*Estilização do título*/
+    font-size: 36px;
+    font-family: var(--main-source)
+}
+
+.título-destaque {
+    color: var(--third-color);
+}
+
+.presentation__conteudo__paragrafo {
+    font-size: 24px;
+    font-family: var(--second-source);
+}
+
+.presentation__conteudo__paragrafo a{
+    text-decoration: none;
+    color: var(--third-color);
+}
+
+.presentation__botoes__links {
+    /*Posição dos botões*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 32px;
+}
+
+.presentation__subtitulo_estilizacao {
+    /*Estilização do subtitulo dos links*/
+    font-family: var(--main-source);
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.presentation__links__estilizacao {
+    /* Estilização dos botões dos links */
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    color: var(--second-color);
+    border: 2px solid var(--third-color);
+    width: 368px;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0px;
+    text-decoration: none;
+    text-align: center;
+    font-family:var(--second-source);
+    cursor: pointer;
+
+}
+
+.presentation__links__estilizacao:hover {
+    background-color: var(--color-houver);
+    transition: 0.5s;
+}
+
+h1{
+    font-weight: bold;
+}
+
+span{
+    color: var(--third-color);
+    border: 1px solid var(--third-color);
+    padding: 1px;
+}
+
+.rodape {
+    padding: 24px;
+    color: var(--second-color);
+    background-color: var(--color-rodape);
+    text-align: center;
+    font-family: var(--second-source);
+    font-size: 24px;
+    font-weight: 400;
+}
