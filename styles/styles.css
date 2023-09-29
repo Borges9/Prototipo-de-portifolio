@@ -52,6 +52,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 82px;
 }
 
 .presentation__conteudo__titulo {
@@ -136,4 +137,10 @@ span{
     font-family: var(--second-source);
     font-size: 1.5rem;
     font-weight: 400;
+}
+
+@media (max-width:1200px) {
+    .presentation {
+        flex-direction: column-reverse;
+    }
 }
