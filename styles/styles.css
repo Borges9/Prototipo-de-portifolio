@@ -150,5 +150,10 @@ span{
 
     .presentation {
         flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .presentation__conteudo {
+        width: auto;
     }
 }
