@@ -39,7 +39,6 @@ body {
 }
 
 .presentation {
-    /*Foto do Borges*/
     padding: 5% 15%;
     display: flex;
     align-items: center;
@@ -48,7 +47,6 @@ body {
 }
 
 .presentation__conteudo {
-    /*Estilização dos textos principais*/
     width: 50%;
     display: flex;
     flex-direction: column;
@@ -56,7 +54,6 @@ body {
 }
 
 .presentation__conteudo__titulo {
-    /*Estilização do título*/
     font-size: 2.25rem;
     font-family: var(--main-source)
 }
@@ -76,7 +73,6 @@ body {
 }
 
 .presentation__botoes__links {
-    /*Posição dos botões*/
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -85,14 +81,12 @@ body {
 }
 
 .presentation__subtitulo_estilizacao {
-    /*Estilização do subtitulo dos links*/
     font-family: var(--main-source);
     font-weight: 400;
     font-size: 1.5rem;
 }
 
 .presentation__links__estilizacao {
-    /* Estilização dos botões dos links */
     display: flex;
     justify-content: center;
     gap: 16px;
@@ -112,7 +106,8 @@ body {
 
 .presentation__links__estilizacao:hover {
     background-color: var(--color-houver);
-    transition: 0.5s;
+    transition: all 0.5s;
+    transform: scale(1.1);
 }
 
 .presentation__img {
