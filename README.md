@@ -1,6 +1,6 @@
 # Prototipo de portifolio
  
- Meu Portfólio
+Meu Portfólio:
 Olá, seja bem-vindo ao meu portfólio! Eu sou Cássius Borges, um programador apaixonado pela tecnologia. Neste espaço, compartilho uma coleção dos meus projetos, trabalhos e realizações.
 
 Sobre Mim:
