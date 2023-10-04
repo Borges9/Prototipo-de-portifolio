@@ -25,4 +25,4 @@ Neste portfólio, você encontrará uma duas páginas que demonstram minha exper
 ### Cássius Borges
 
 ### Linkedin: www.linkedin.com/in/cássius-borges-5a2583271
-### Site: https://portifolio-gamma-brown.vercel.app/index.html
+### Site: https://prototipo-de-portifolio.vercel.app
