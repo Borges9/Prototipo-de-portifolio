@@ -136,7 +136,7 @@ span{
 
 @media (max-width:1200px) {
     .header {
-        padding: 10;
+        padding: 10px;
     }
 
     .header__menu {
@@ -150,5 +150,9 @@ span{
 
     .presentation__conteudo {
         width: auto;
+    }
+
+    .presentation__links__estilizacao {
+        gap: 0;
     }
 }
