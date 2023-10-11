@@ -6,6 +6,10 @@ Olá, seja bem-vindo ao meu portfólio! Eu sou Cássius Borges, um programador a
 <img src = "https://github.com/Borges9/Prototipo-de-portifolio/assets/102422255/39442973-f06c-49a0-a0ee-ae1cd0e84d83" width="700px" />
 </div>
 
+<div align="center">
+<img src = "https://github.com/Borges9/Prototipo-de-portifolio/assets/102422255/708795f2-9338-4373-af23-7ee2000c338b" />
+</div> 
+
 ## Sobre Mim:
 Sou um profissional comprometido e motivado a buscar soluções criativas e inovadoras para os desafios que encontro. Tenho experiência em Javascript, HTML e CSS e estou constantemente aprendendo e aprimorando minhas habilidades.
 
