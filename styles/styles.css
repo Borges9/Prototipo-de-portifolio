@@ -92,7 +92,7 @@ body {
     gap: 16px;
     color: var(--second-color);
     border: 2px solid var(--third-color);
-    width: 50%;
+    width: 70%;
     border-radius: 8px;
     font-size: 1.5rem;
     font-weight: 600;
@@ -155,5 +155,9 @@ span{
 
     .presentation__links__estilizacao {
         gap: 0;
+    }
+
+    .rodape {
+        padding: 15px;
     }
 }
