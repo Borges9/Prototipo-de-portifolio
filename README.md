@@ -6,8 +6,9 @@ Olá, seja bem-vindo ao meu portfólio! Eu sou Cássius Borges, um programador a
 <img src = "https://github.com/Borges9/Prototipo-de-portifolio/assets/102422255/39442973-f06c-49a0-a0ee-ae1cd0e84d83" width="700px" />
 </div>
 
+## Funcionabilidade
 <div align="center">
-<img src = "https://github.com/Borges9/Prototipo-de-portifolio/assets/102422255/708795f2-9338-4373-af23-7ee2000c338b" />
+<img src = "https://github.com/Borges9/Prototipo-de-portifolio/assets/102422255/2eb1cde2-dcf5-4fa3-ae54-80c552ab8fcb" />
 </div> 
 
 ## Sobre Mim:
