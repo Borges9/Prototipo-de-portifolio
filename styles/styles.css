@@ -38,6 +38,10 @@ body {
     text-decoration: none;
 }
 
+.header__menu__link:hover {
+    color: var(--color-houver);
+}
+
 .presentation {
     padding: 5% 15%;
     display: flex;
@@ -112,7 +116,7 @@ body {
 }
 
 .presentation__img {
-    width: 50%;
+    width: 40%;
 }
 
 h1{
