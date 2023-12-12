@@ -158,6 +158,10 @@ span{
         justify-content: center;
     }
 
+    .presentation__img {
+        width: 42%;
+    }
+
     .presentation {
         flex-direction: column-reverse;
         padding: 5%;
