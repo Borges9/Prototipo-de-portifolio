@@ -59,7 +59,7 @@ body {
 
 .presentation__conteudo__titulo {
     font-size: 2.25rem;
-    font-family: var(--main-source)
+    font-family: var(--main-source);
 }
 
 .título-destaque {
@@ -116,7 +116,8 @@ body {
 }
 
 .presentation__img {
-    width: 40%;
+    width: 35%;
+
 }
 
 h1{
@@ -137,6 +138,15 @@ span{
     font-family: var(--second-source);
     font-size: 1.5rem;
     font-weight: 400;
+}
+
+#footer__link {
+    text-decoration: none;
+    color: var(--first-color);
+}
+
+#footer__link:hover {
+    color: var(--third-color);
 }
 
 @media (max-width:1200px) {
