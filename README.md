@@ -12,10 +12,10 @@ Hello, welcome to my portfolio! I'm Cássius Borges, a programmer passionate abo
 </div> 
 
 ## About me:
-Sou um profissional comprometido e motivado a buscar soluções criativas e inovadoras para os desafios que encontro. Tenho experiência em Javascript, HTML e CSS e estou constantemente aprendendo e aprimorando minhas habilidades.
+I am a committed professional motivated to seek creative and innovative solutions to the challenges I encounter. I have experience in Javascript, HTML and CSS and am constantly learning and improving my skills.
 
 ## What you will find here:
-Neste portfólio, você encontrará uma duas páginas que demonstram minha experiência e meu conhecimento em HTML e CSS. Esse projeto foi desenvolvido com dedicação, atenção aos detalhes.
+In this portfolio, you will find two pages that demonstrate my experience and knowledge of HTML and CSS. This project was developed with dedication and attention to detail.
 
 ## Tools used:
 
